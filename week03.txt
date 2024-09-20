@@ -1,5 +1,7 @@
-2주차 수업내용
+4주차 수업내용
 - 리눅스 기초 명령
 - ls, cat, touch...
-- 깃 기초 명령
-- status, init, add, log, push...
+- fatch, pull
+- Go 환경 셋업
+- Go 컴파일러 설치
+- vsc 셋업
